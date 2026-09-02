@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.jpg" alt="美团黄袋鼠和机器狗" width="100%" />
+  <img src="assets/banner.jpg" alt="黄袋鼠简笔画" width="100%" />
 </div>
 
 <br />
